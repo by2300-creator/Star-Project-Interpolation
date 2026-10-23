@@ -1,0 +1,12 @@
+{
+  "total_observers": 6,
+  "total_trials": 1848,
+  "earlier_trials": 616,
+  "controlled_trials": 1232,
+  "matched_trials": 1440,
+  "original_trials": 408,
+  "max_replay_error_px": 1.2710574864626038e-13,
+  "old_circle_trials": 96,
+  "observer_identity": "User confirmed older and later reused IDs refer to different people.",
+  "old_screen_size": "Not explicitly recorded in v7 CSV; no imputation from current settings."
+}

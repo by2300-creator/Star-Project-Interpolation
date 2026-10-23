@@ -1,0 +1,12 @@
+{
+  "original_id": "P0010",
+  "corrected_id": "P010",
+  "recorded_counterbalance_group": 1,
+  "corrected_id_counterbalance_group": 1,
+  "recorded_order_seed": 769567376,
+  "default_seed_for_corrected_spelling": 3490816988,
+  "recorded_trial_order_reproduced": true,
+  "identical_pose_and_start_assignment_by_trial_uid": true,
+  "same_order_under_default_corrected_id": false,
+  "preserve_recorded_seed_and_order": true
+}

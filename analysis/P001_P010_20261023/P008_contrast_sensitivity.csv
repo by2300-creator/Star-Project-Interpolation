@@ -1,0 +1,9 @@
+comparison,outcome,all_ten_mean,participant_median,without_P008_mean
+circle minus parabola,nearest_sensitivity_difference,-0.22962575756155687,-0.10763707385697854,-0.09468075941123033
+circle minus parabola,bias_difference_px,2.799999999999987,2.312500000000032,2.8888888888888786
+cubic minus parabola,nearest_sensitivity_difference,-0.16773444009379412,-0.13006146424384968,-0.06278829308323797
+cubic minus parabola,bias_difference_px,4.125000000000029,3.0937500000000995,2.993055555555591
+quartic minus parabola,nearest_sensitivity_difference,0.02690926846424322,0.06278829308323916,0.057805095219487984
+quartic minus parabola,bias_difference_px,2.037500000000025,2.1562500000001146,1.826388888888915
+quintic minus parabola,nearest_sensitivity_difference,0.006278829308327088,0.04933365885112329,0.07275468881073974
+quintic minus parabola,bias_difference_px,1.2749999999999815,1.6562499999999845,1.0624999999999947

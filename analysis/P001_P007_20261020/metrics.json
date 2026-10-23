@@ -1,0 +1,18 @@
+{
+  "total_trials": 2156,
+  "participants": 7,
+  "matched_trials": 1680,
+  "matched_baselines": 560,
+  "original_trials": 476,
+  "maximum_replay_error_px": 1.7053025658242404e-13,
+  "excluded_files": [
+    "P001_identification_s1_20261005_130147_514238_presses.csv",
+    "P001_identification_s1_20261005_130147_514238_trials.csv",
+    "P002_identification_s1_20261005_160417_388272_presses.csv",
+    "P002_identification_s1_20261005_160417_388272_trials.csv"
+  ],
+  "exclusion_rule": "Exclude October 5 P001/P002; explicitly include only seven v9 sessions listed in FILES.",
+  "minimum_perturbation_px": 11.433207090269743,
+  "maximum_perturbation_px": 13.93571885829116,
+  "baseline_start_effect_px": 0.900648361663845
+}

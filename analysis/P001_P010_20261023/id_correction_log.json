@@ -1,0 +1,24 @@
+[
+  {
+    "original_filename": "P0010_identification_s1_20261022_171637_367762_trials.csv",
+    "corrected_filename": "P010_identification_s1_20261022_171637_367762_trials.csv",
+    "archived_original": "data/archive/P0010_label_correction_20261023/P0010_identification_s1_20261022_171637_367762_trials.csv",
+    "rows": 308,
+    "changed_cells": 308,
+    "changed_column": "participant_id",
+    "original_sha256": "321e6ee29242795e99c5a11c2b2412cda0926e7dd4f8dc22f831605c82cc1ec6",
+    "corrected_sha256": "a075f21c61f222fa8ed94fb013da924ddae626b13a126ad69496f2aef469f37c",
+    "all_other_cells_identical": true
+  },
+  {
+    "original_filename": "P0010_identification_s1_20261022_171637_367762_presses.csv",
+    "corrected_filename": "P010_identification_s1_20261022_171637_367762_presses.csv",
+    "archived_original": "data/archive/P0010_label_correction_20261023/P0010_identification_s1_20261022_171637_367762_presses.csv",
+    "rows": 308,
+    "changed_cells": 0,
+    "changed_column": null,
+    "original_sha256": "47b5b76ca40d08bb4269c6c30313a81afd850865092c7707e3fc5b4865fea9e6",
+    "corrected_sha256": "47b5b76ca40d08bb4269c6c30313a81afd850865092c7707e3fc5b4865fea9e6",
+    "all_other_cells_identical": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "total_trials": 3080,
+  "participants": 10,
+  "matched_trials": 2400,
+  "matched_baselines": 800,
+  "original_trials": 680,
+  "maximum_replay_error_px": 1.7053025658242404e-13,
+  "excluded_files": [
+    "P001_identification_s1_20261005_130147_514238_presses.csv",
+    "P001_identification_s1_20261005_130147_514238_trials.csv",
+    "P002_identification_s1_20261005_160417_388272_presses.csv",
+    "P002_identification_s1_20261005_160417_388272_trials.csv"
+  ],
+  "exclusion_rule": "Exclude October 5 P001/P002; explicitly include only ten v9 sessions listed in FILES. P010 was relabeled from P0010 with recorded order/seed retained.",
+  "minimum_perturbation_px": 11.433207090269743,
+  "maximum_perturbation_px": 13.93571885829116,
+  "baseline_start_effect_px": 0.8331483616637705
+}

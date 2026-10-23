@@ -1,0 +1,13 @@
+participant_id,trial,trial_uid,stimulus_set,curve_family,condition_type,response_normal_px,response_abs_px,reaction_time_ms,initial_offset_px,fine_moves
+P002,10,maxima_quintic_parabola_reference_r1_c16,curvature_maxima,quintic,single,-153.49852293041414,153.49852293041414,41184,-76.49852293041357,28
+P001,29,circle_target4_standard_identification_r1_c4_p1plus_m0.133,original,circle,single,78.99999999999966,78.99999999999966,17412,70.0,1
+P001,36,circle_target4_standard_identification_r1_c12_p6plus_m0.133,original,circle,single,68.0,68.0,5620,70.0,8
+P002,60,maxima_quartic_parabola_reference_r2_c10,curvature_maxima,quartic,single,-64.20236235107998,64.20236235107998,15074,51.79763764891986,14
+P003,11,line_target4_standard_identification_r1_c10_p5plus_m0.133,original,line,single,58.00000000000009,58.00000000000009,1498,70.0,2
+P002,63,maxima_quartic_parabola_reference_r1_c15,curvature_maxima,quartic,baseline,53.5014770695869,53.5014770695869,8967,-76.49852293041357,6
+P002,8,quartic_target4_standard_identification_r1_c12_p6plus_m0.133,original,quartic,single,47.0000000000003,47.0000000000003,14179,70.0,18
+P002,84,maxima_quintic_parabola_reference_r2_c0,curvature_maxima,quintic,baseline,-43.79412008916545,43.79412008916545,7463,-50.79412008916525,2
+P002,220,quartic_target4_standard_identification_r1_c8_p3plus_m0.133,original,quartic,single,41.0000000000001,41.0000000000001,7538,70.0,6
+P003,185,quartic_target4_standard_identification_r1_c0_none_m0.000,original,quartic,baseline,40.999999999999964,40.999999999999964,2510,-70.0,3
+P002,58,maxima_parabola_parabola_reference_r1_c20,curvature_maxima,parabola,single,40.45830342944674,40.45830342944674,8506,84.45830342944703,14
+P002,61,maxima_parabola_parabola_reference_r2_c4,curvature_maxima,parabola,single,39.04423013375593,39.04423013375593,5920,56.044230133755946,9

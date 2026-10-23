@@ -1,0 +1,7 @@
+observer,cohort,participant_id,date,counterbalance_group,trials,median_seconds,trial_minutes,median_fine_moves,blocked_trials,max_abs_response_px,responses_over_50px,design_versions,screen_size_px
+Earlier_P001,earlier,P001,20261005,0,308,4.086,24.792416666666668,3.0,37,63.45830342944696,2,2026-09-25_midpoint_single_v2; 2026-10-04_matched_semicircle_v7,
+Earlier_P002,earlier,P002,20261005,1,308,6.288,35.63908333333333,9.0,3,66.00000000000003,1,2026-09-25_midpoint_single_v2; 2026-10-04_matched_semicircle_v7,
+Controlled_P001,controlled,P001,20261006,0,308,5.0605,28.4451,8.0,14,43.79763764891963,0,2026-10-06_all_chords_v9,1100.0
+Controlled_P002,controlled,P002,20261007,1,308,4.2965,25.04543333333333,6.0,31,20.20236235107956,0,2026-10-06_all_chords_v9,1100.0
+Controlled_P003,controlled,P003,20261008,2,308,10.4585,64.80315,13.0,7,29.797637648920382,0,2026-10-06_all_chords_v9,1100.0
+Controlled_P004,controlled,P004,20261008,3,308,8.4675,51.27725,13.0,1,25.2131963151753,0,2026-10-06_all_chords_v9,1100.0

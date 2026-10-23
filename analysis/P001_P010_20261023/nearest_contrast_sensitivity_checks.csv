@@ -1,0 +1,5 @@
+comparison,mean_difference,participants_positive,participants_negative,participants_zero,leave_one_participant_out_min,leave_one_participant_out_max
+circle minus parabola,-0.22962575756155693,3,7,0,-0.2830456386609471,-0.09468075941123036
+cubic minus parabola,-0.16773444009379418,3,6,1,-0.20929431027746281,-0.062788293083238
+quartic minus parabola,0.02690926846424318,6,4,0,-0.003986558291002257,0.059798374364987944
+quintic minus parabola,0.006278829308327072,7,3,0,-0.036875664191739474,0.07275468881073971

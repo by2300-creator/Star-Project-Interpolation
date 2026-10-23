@@ -1,0 +1,13 @@
+participant_id,region,sensitivity,scenario
+P001,nearest,0.8655814689332161,all retained trials
+P001,other,0.016136933153631166,all retained trials
+P002,nearest,0.6794590287221863,all retained trials
+P002,other,0.1259829203360104,all retained trials
+P003,nearest,0.6525497602579439,all retained trials
+P003,other,-0.15018162296977527,all retained trials
+P001,nearest,0.8655814689332161,omit P002 trial-10 triplet for diagnostic only
+P001,other,0.016136933153631166,omit P002 trial-10 triplet for diagnostic only
+P002,nearest,0.6794590287221863,omit P002 trial-10 triplet for diagnostic only
+P002,other,-0.004571114319637222,omit P002 trial-10 triplet for diagnostic only
+P003,nearest,0.6525497602579439,omit P002 trial-10 triplet for diagnostic only
+P003,other,-0.15018162296977527,omit P002 trial-10 triplet for diagnostic only

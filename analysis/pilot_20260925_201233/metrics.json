@@ -1,0 +1,22 @@
+{
+  "trials": 108,
+  "matched_pairs": 48,
+  "max_coordinate_error": 7.105427357601002e-15,
+  "max_press_replay_error": 3.595093471822542e-13,
+  "median_rt_ms": 2335.5,
+  "active_minutes": 4.52635,
+  "total_moves": 906,
+  "no_movement_trials": [
+    16,
+    17
+  ],
+  "one_px_trials": 0,
+  "manual_step_trials": 14,
+  "no_reversal_trials": 90,
+  "endpoints_multiple_10": 94,
+  "perturb_min_px": 8.799999999999997,
+  "perturb_max_px": 16.8330671376674,
+  "positive_pairs": 22,
+  "zero_pairs": 8,
+  "negative_pairs": 18
+}

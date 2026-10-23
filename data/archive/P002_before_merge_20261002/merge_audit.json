@@ -1,0 +1,36 @@
+{
+  "rule": "Earlier trials 1\u201312; later trials 13\u2013277. Trial 13 comes from later run.",
+  "sources": {
+    "P002_identification_s1_20261001_164256_025570_trials.csv": {
+      "sha256": "5e49ba16a03d31f83f7bcbf0bb5e8969d419c07edc3faa74c836e28c611c8a98",
+      "rows": 22
+    },
+    "P002_identification_s1_20261001_164256_025570_presses.csv": {
+      "sha256": "f4ac7f0ad88dac596227cdf2c8479b16ce4e40793e61d2225f4f86b490746404",
+      "rows": 22
+    },
+    "P002_identification_s1_20261001_170310_286302_trials.csv": {
+      "sha256": "fdcce0e07ffd1d31bbc0a9c415768174e495de3241631e30e6b078b52e12ff4a",
+      "rows": 277
+    },
+    "P002_identification_s1_20261001_170310_286302_presses.csv": {
+      "sha256": "aee107bf9a60b9ba59d999a898c294b0897a088c0b291ba5a04a71f2b8279a2c",
+      "rows": 277
+    }
+  },
+  "outputs": {
+    "P002_identification_s1_20261001_170310_286302_trials.csv": {
+      "sha256": "733bcad9d950baf8771e1df34ecb8baf05ea486040b66451aec465323235e5a0",
+      "rows": 277,
+      "early_rows": 12,
+      "later_rows": 265
+    },
+    "P002_identification_s1_20261001_170310_286302_presses.csv": {
+      "sha256": "1c350b4bcf05c92c4a2fdf9959103d7b4d748ce25c95def1039e40c7f59fc74f",
+      "rows": 277,
+      "early_rows": 12,
+      "later_rows": 265
+    }
+  },
+  "overlap_trial_uids_and_geometry_match": true
+}
